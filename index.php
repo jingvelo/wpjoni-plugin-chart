@@ -4,7 +4,7 @@
     Plugin Name: Chart plugin
     Description: A plugin that displays chart by using shortcode
     Version: 1.0
-    Author: Joni
+    Author: Joni Malaluan
     Author URI: https://jonimalaluan.com
 */
 
