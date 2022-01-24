@@ -3,7 +3,7 @@
 /*
     Plugin Name: Chart plugin
     Description: A plugin that displays chart by using shortcode
-    Version: 1.1
+    Version: 1.2
     Author: Joni Malaluan
     Author URI: https://jonimalaluan.com
 */
